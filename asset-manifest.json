@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://anuragbadoni.github.io/csb-88vyh2/static/css/main.c66917e0.chunk.css",
+    "main.js": "https://anuragbadoni.github.io/csb-88vyh2/static/js/main.9a27ac10.chunk.js",
+    "main.js.map": "https://anuragbadoni.github.io/csb-88vyh2/static/js/main.9a27ac10.chunk.js.map",
+    "runtime-main.js": "https://anuragbadoni.github.io/csb-88vyh2/static/js/runtime-main.a037e03e.js",
+    "runtime-main.js.map": "https://anuragbadoni.github.io/csb-88vyh2/static/js/runtime-main.a037e03e.js.map",
+    "static/css/2.da181bfb.chunk.css": "https://anuragbadoni.github.io/csb-88vyh2/static/css/2.da181bfb.chunk.css",
+    "static/js/2.2e1a2c2a.chunk.js": "https://anuragbadoni.github.io/csb-88vyh2/static/js/2.2e1a2c2a.chunk.js",
+    "static/js/2.2e1a2c2a.chunk.js.map": "https://anuragbadoni.github.io/csb-88vyh2/static/js/2.2e1a2c2a.chunk.js.map",
+    "index.html": "https://anuragbadoni.github.io/csb-88vyh2/index.html",
+    "static/css/2.da181bfb.chunk.css.map": "https://anuragbadoni.github.io/csb-88vyh2/static/css/2.da181bfb.chunk.css.map",
+    "static/css/main.c66917e0.chunk.css.map": "https://anuragbadoni.github.io/csb-88vyh2/static/css/main.c66917e0.chunk.css.map",
+    "static/js/2.2e1a2c2a.chunk.js.LICENSE.txt": "https://anuragbadoni.github.io/csb-88vyh2/static/js/2.2e1a2c2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a037e03e.js",
+    "static/css/2.da181bfb.chunk.css",
+    "static/js/2.2e1a2c2a.chunk.js",
+    "static/css/main.c66917e0.chunk.css",
+    "static/js/main.9a27ac10.chunk.js"
+  ]
+}
